@@ -6,7 +6,7 @@
 </body>
 </html>
 <div class="button toggle">Blog post</div>
-<div class="slidedown">
+<div class="slide down">
   <div class="description">
   <h2>Blog post title</h2>
   <p>Here, add a short but appealing description of your blog post.</p>
